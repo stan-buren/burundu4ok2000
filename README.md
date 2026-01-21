@@ -21,7 +21,8 @@ Currently **Learning in Public** and building scalable data pipelines at **#DEZo
 ## 🛠️ Tech Stack
 
 ### 💡 Data Engineering (Current Focus)
-`Python` • `SQL` • `Docker` • `Docker Compose` • `PostgreSQL` • `Bash`
+**Infrastructure:** `Docker` • `Docker Compose` • `Docker Networks` • `Bash` • `Linux`  
+**Data Stack:** `PostgreSQL` • `Pandas` • `Psycopg2` • `pgAdmin` • `pgcli` • `SQL`
 
 ### 🧱 Foundations (CS50x)
 `C` • `Algorithms` • `Data Structures` • `Memory Management`
@@ -31,19 +32,39 @@ Currently **Learning in Public** and building scalable data pipelines at **#DEZo
 
 ---
 
-## 📚 Currently Working On
+## 📚 Data Engineering Journey (Zoomcamp '26)
 
-- **#DEZoomcamp 2026**: Module 1 - Containerization & Infrastructure as Code.
-- **Project "Aladdin"**: Building ingestion scripts for NY Taxi Data.
-- **Infrastructure**: Mastering Docker networking and port mapping.
+I am building an end-to-end data platform, module by module.
+
+| Module | Topic | Tech Stack | Status |
+| :--- | :--- | :--- | :--- |
+| **01** | **Containerization & IaC** | `Docker` `Postgres` `Terraform` `GCP` | 🚧 **In Progress** |
+| **02** | **Workflow Orchestration** | `Kestra` / `Airflow` | ⏳ *Planned* |
+| **03** | **Data Warehousing** | `BigQuery` (Serverless DWH) | ⏳ *Planned* |
+| **04** | **Analytics Engineering** | `dbt` (Data Build Tool) | ⏳ *Planned* |
+| **05** | **Batch Processing** | `Apache Spark` | ⏳ *Planned* |
+| **06** | **Stream Processing** | `Apache Kafka` | ⏳ *Planned* |
+| **Project** | **Final Capstone** | *Full-scale Data Pipeline* | ⏳ *Planned* |
+
+  - [View Course Repo](https://github.com/DataTalksClub/data-engineering-zoomcamp) 🐳
 
 ---
 
-## 🎯 2026 Goals
+## 🏗️ Other Learning Paths
 
-- [x] Complete CS50x 🎓
-- [ ] Master Data Engineering Zoomcamp 2026 🐳
-- [ ] Open Source my Personal Knowledge Base (Obsidian Vault) 🧠
+- **#AIDevTools Zoomcamp**:
+  Building AI-powered applications and agents.
+  - **Status:** ⏸️ *On Hold (Resuming after DE Zoomcamp)*
+  - **Progress:** Completed Module 1 & 2 (End-to-End Project shipped ✅).
+
+---
+
+## 🎯 2025-2026 Goals
+
+- [x] Complete **CS50x: Introduction to Computer Science** ([Harvard/edX](https://cs50.harvard.edu/x/)) 🎓
+- [ ] Master **Data Engineering Zoomcamp** & deploy final project 🏗️
+- [ ] Complete **AI Dev Tools Zoomcamp** to boost productivity ⚡
+- [ ] Open Source my **Obsidian Knowledge Base** (Digital Garden) 🧠
 
 ---
 
@@ -54,15 +75,24 @@ Currently **Learning in Public** and building scalable data pipelines at **#DEZo
 - **Stack:** Docker, Postgres, pgAdmin, Python.
 - **Key Feature:** Automated ingestion pipeline for 1.3M+ taxi records.
 
-### 🧠 Zero-to-Dev (Obsidian Vault)
-**Knowledge Base** — My personal "Second Brain" where I document everything I learn.
-- **Status:** *Private (Curating for public release)* 🚧
-- **Content:** Notes on DE, CS concepts, and daily logs.
+### 🧠 [Zettelkasten Note Taker](https://github.com/burundu4ok2000)
+**Custom Tool (ZTL Casta)** — *Open Source Release: Feb 2026* 🚀
+- **Goal:** Automating the "Second Brain" workflow using the **Zettelkasten** method.
+- **Smart Review:** Built-in quiz system for **Active Recall** of notes and technical terms.
+- **AI Core:** Powered by **3,000+ lines of custom system prompts** based on cognitive science. The AI handles the technical overhead (formatting, linking, tagging) — allowing you to focus purely on **Reading & Thinking**.
+- **Status:** *Private Beta (Polishing for release).*
 
-### 🎭 [Emozika Theatre](https://burundu4ok2000.github.io/studio-emozika/)
-**CS50x Final Project** — A production-ready theatre website.
-- **Stack:** Vanilla JS, SCSS, Vite.
-- **Highlight:** Zero dependencies, high performance.
+### 🎭 [Emozika Theatre (v2)](https://github.com/burundu4ok2000/emozika-theatre)
+**Advanced Frontend MVP** — A multi-page performance site built with **Astro**.
+- **Tech:** Astro, JavaScript, Component Architecture.
+- **Context:** My transition point. I built this complex frontend architecture before realizing my passion lies in **Backend & Data Engineering**.
+- **Status:** *Archived (Frozen to focus on DE).*
+
+### 🐍 [Snake Showdown Live](https://github.com/burundu4ok2000/snake-showdown-live)
+**AI DevTools Capstone (Module 2)** — An End-to-End AI project.
+- **Concept:** Classic Snake game powered by AI Agents.
+- **Tech:** Python, AI Agents, Web Frontend.
+- **Status:** *Completed (MVP).*
 
 ---
 
@@ -73,15 +103,5 @@ Currently **Learning in Public** and building scalable data pipelines at **#DEZo
 [![Twitter](https://img.shields.io/badge/Twitter-@burundu4ok2000-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/burundu4ok2000)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Stan_Buren-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/stan-buren-1447b83a7)
 [![Telegram](https://img.shields.io/badge/Telegram-@BurundukovS-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/BurundukovS)
-
-</div>
-
----
-
-<div align="center">
-
-*"This was CS50... and now onto Data Engineering!"* 🚀
-
-**Open to remote Data Engineering opportunities**
 
 </div>
